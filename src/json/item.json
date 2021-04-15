@@ -1,0 +1,54 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "namaProduct": "STUDIO RENTAL",
+      "imgProduct": "1a.jpg"
+    },
+    {
+      "id": "2",
+      "namaProduct": "DIGITAL MARKETING",
+      "imgProduct": "2a.png"
+    },
+    {
+      "id": "3",
+      "namaProduct": "PRODUCTION HOUSE",
+      "imgProduct": "3a.png"
+    },
+    {
+      "id": "4",
+      "namaProduct": "KVIBES",
+      "imgProduct": "logo.png"
+    },
+    {
+      "id": "5",
+      "namaProduct": "Rahasia Gadis",
+      "imgProduct": "rahasia-gadis 1 1.png"
+    },
+    {
+      "id": "6",
+      "namaProduct": "Laper Story Group",
+      "imgProduct": "21433318_1861493460544006_560472504615829504_a 1.png"
+    },
+    {
+      "id": "7",
+      "namaProduct": "Parenting Group",
+      "imgProduct": "Mask Group.png"
+    },
+    {
+      "id": "8",
+      "namaProduct": "Millennials Group",
+      "imgProduct": "image 8 1.png"
+    },
+    {
+      "id": "9",
+      "namaProduct": "Komik Dimsum",
+      "imgProduct": "Mask Group (1).png"
+    },
+    {
+      "id": "10",
+      "namaProduct": "Bola Nusantara",
+      "imgProduct": "bola nusantara@4x 1.png"
+    }
+  ]
+}
