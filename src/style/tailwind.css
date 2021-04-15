@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "HK-Grostesk", sans-serif;
+}
+
+@font-face {
+  font-family: "HK-Grostesk";
+  src: local("HK-Grostesk"),
+    url("fonts/hk-grotesk.medium.ttf") format("truetype");
+}
+
+.header {
+  @apply relative;
+  height: 600px;
+}
+
+.header .container {
+  @apply relative;
+  z-index: 3;
+}
+
+.header:before {
+  @apply w-full;
+  @apply inset-0;
+  @apply absolute;
+  background: url("images/v502_724.png") no-repeat center;
+  background-size: cover;
+  height: 600px;
+  content: "";
+}
+
+.item figure.item-image {
+  @apply bg-indigo-800;
+}
+
+.item figure.item-image img {
+  background-size: cover;
+}
