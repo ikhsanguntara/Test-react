@@ -1,6 +1,6 @@
 import React from "react";
 
-import RenderProducts from "parts/products/RenderItem";
+import RenderProducts from "parts/services/RenderItem";
 
 export default function Index(props) {
   return (

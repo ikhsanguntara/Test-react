@@ -1,5 +1,5 @@
 {
-  "product": [
+  "item": [
     {
       "id": "1",
       "namaProduct": "STUDIO RENTAL",
@@ -8,12 +8,12 @@
     {
       "id": "2",
       "namaProduct": "DIGITAL MARKETING",
-      "imgProduct": "2a.png"
+      "imgProduct": "2a.jpg"
     },
     {
       "id": "3",
       "namaProduct": "PRODUCTION HOUSE",
-      "imgProduct": "3a.png"
+      "imgProduct": "3a.jpg"
     },
     {
       "id": "4",
