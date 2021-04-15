@@ -1,0 +1,41 @@
+* {
+    font-family: 'HK Grotesk', sans-serif;
+}
+
+h1 {
+    font-size: 104px;
+}
+
+h2 {
+    font-size: 64px;
+}
+
+h3{
+    font-size: 40px;
+}
+
+.subtitle {
+    font-size: 20px;
+}
+
+.BodyLarge {
+font-size: 20px;
+}
+
+.BodyReguler {
+    font-size: 16px;
+}
+
+.BodySmall {
+font-size: 14px;
+}
+
+.red {
+    color: #ca171e;
+}
+.black {
+    color:#101010;
+}
+.base {
+    color: #ffff;
+}

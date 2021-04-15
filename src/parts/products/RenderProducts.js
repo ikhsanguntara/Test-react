@@ -16,6 +16,7 @@ export default function Products({ item }) {
               src={`images/${pathImage}`}
               alt={item.imgProduct}
               className="mx-auto opacity-50 bg-cover object-cover"
+             
             />
 
             <h3 className="text-lg ml-4 text-white">{item.namaProduct}</h3>

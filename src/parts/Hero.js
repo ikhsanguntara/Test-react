@@ -5,7 +5,7 @@ export default function Hero() {
     <div className="mt-14 ml-8">
       <h1
         className="font-bold text-white leading-tight italic"
-        style={{ fontSize: 104 }}
+      
       >
         28 MILLION <br /> COMMUNITY
       </h1>
